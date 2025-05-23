@@ -138,10 +138,6 @@ https://tv.bdixtv24.com/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/discoverykids.jpg",DISCOVERY KIDS
 https://raw.githubusercontent.com/tkmani91/Channel/main/DiscoveryKids.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/sonyyay.jpg",SONY YAY
-https://raw.githubusercontent.com/tkmani91/Channel/main/SonyYay.m3u8
-#https://tv.bdixtv24.com/toffee/live.php?id=57bd9c2493c1&e=.m3u8
-
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.ibb.co.com/fdbm305W/NICKELODEON.jpg",NICKELODEON
 http://143.244.60.30/NICKELODEON/index.m3u8
 
@@ -191,7 +187,7 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 https://raw.githubusercontent.com/tkmani91/Channel/main/ColorCineplexHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/d01D83Yz/STAR-Movies.jpg",Star Movies HD
-http://103.89.248.26:8082/STAR-MOVIES-SELECT/index.fmp4.m3u8?token=b6064cc94ab8b7a594e5a3983dd643b8b5c4d00f-3e383b40e0471b946b3d13765eaf86c1-1747507479-1747496679
+http://103.89.248.26:8082/STAR-MOVIES-SELECT/index.fmp4.m3u8?token=9ae4d9a33238f15bfb3189a0d8ef4633754e4ee3-76738df4d3cc74ce2f18c15ab071b6d0-1748027984-1748017184
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/B5C3ZMxk/Star-Gold.jpg",Star Gold HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarGoldHd.m3u8
@@ -266,9 +262,6 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/b4umusic.jpg",B4U MUSIC
 https://raw.githubusercontent.com/tkmani91/Channel/main/B4uMusic.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/4xbdxxGx/Zoom.jpg",ZooM
-https://raw.githubusercontent.com/tkmani91/Channel/main/Zoom.m3u8
-
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/HkGcLN7B/Sangit-Bangla.png",Sangeet Bangla
 https://raw.githubusercontent.com/tkmani91/Channel/main/SangeetBangla.m3u8
 
@@ -294,9 +287,6 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/AndTvHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/vZW1xvrM/SonyWah.jpg",Sony Sab
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonySab.m3u8
-
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/vZW1xvrM/SonyWah.jpg",Sony Wah
-https://raw.githubusercontent.com/tkmani91/Channel/main/SonyWah.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Religion" tvg-logo="https://i.postimg.cc/B61BHL42/Aastha.jpg",Aastha
 https://raw.githubusercontent.com/tkmani91/Channel/main/Aastha.m3u8
