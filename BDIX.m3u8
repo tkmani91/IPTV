@@ -302,3 +302,7 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Religion" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Satsang TV
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
+
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/NfsCnmb8/Go-Mid.jpg",GODOWN MID 02
+rtsp://admin:hik12345@192.168.1.3
