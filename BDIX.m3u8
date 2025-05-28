@@ -36,8 +36,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=11
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="http://iptvidn.com/assets/images/tsports.jpg",T SPORTS
-http://kst.moonplex.net:8080/CH2/index.m3u8
-#https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+#http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/PzwXwbLY/starsports1.jpg",Star Sport 1 HD
 https://raw.githubusercontent.com/rahul979854/Channels/main/StarSport1Hd.m3u8
@@ -124,7 +124,7 @@ http://38.96.178.201/live/GaziTV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/duronto.jpg",DURONTO TV
-https://tv.bdixtv24.com/ayna/watch.php?id=9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c&format=.m3u8
+http://103.89.248.22:8082/DURONTO-TV/index.fmp4.m3u8?token=072e855d8ee681ce8c8d283f42f8f9e166c22e55-eb7f408fa68ddc2a78054e22d8fb775b-1748461071-1748450271
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/maasranga.jpg",MAASRANGA TV
 https://tv.bdixtv24.com/ayna/watch.php?id=9a94b22f-c4a4-4150-8eb9-129d0ddeb934&format=.m3u8
@@ -187,7 +187,7 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 https://raw.githubusercontent.com/tkmani91/Channel/main/ColorCineplexHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/d01D83Yz/STAR-Movies.jpg",Star Movies HD
-http://103.89.248.26:8082/STAR-MOVIES-SELECT/index.fmp4.m3u8?token=9ae4d9a33238f15bfb3189a0d8ef4633754e4ee3-76738df4d3cc74ce2f18c15ab071b6d0-1748027984-1748017184
+http://103.89.248.22:8082/STAR-MOVIES-SELECT/index.fmp4.m3u8?token=5caaafbce31f53ff6a601d9c6d3ec7573a14decb-a879312dde2875631580c2a7270f57eb-1748460887-1748450087
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/B5C3ZMxk/Star-Gold.jpg",Star Gold HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarGoldHd.m3u8
