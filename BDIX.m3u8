@@ -226,8 +226,7 @@ https://github.com/rahul979854/Channels/raw/main/AndFlixHd.m3u8
 https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/b4umovies.jpg",B4U MOVIES
-https://tv.bdixtv24.com/toffee/live.php?id=cd113761e022&e=.m3u8
-#https://raw.githubusercontent.com/tkmani91/Channel/main/B4uMovies.m3u8
+https://raw.githubusercontent.com/tkmani91/Channel/main/B4uMovies.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonymaxhd.jpg",SONY MAX
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonyMax.m3u8
@@ -286,8 +285,13 @@ https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/KjRkKSNs/AndTV.jpg",& Tv HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/AndTvHd.m3u8
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/vZW1xvrM/SonyWah.jpg",Sony Television
+https://raw.githubusercontent.com/tkmani91/Channel/main/SonyTelevision.m3u8
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/vZW1xvrM/SonyWah.jpg",Sony Sab
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonySab.m3u8
+
+
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Religion" tvg-logo="https://i.postimg.cc/B61BHL42/Aastha.jpg",Aastha
 https://raw.githubusercontent.com/tkmani91/Channel/main/Aastha.m3u8
