@@ -226,7 +226,8 @@ https://github.com/rahul979854/Channels/raw/main/AndFlixHd.m3u8
 https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/b4umovies.jpg",B4U MOVIES
-https://raw.githubusercontent.com/tkmani91/Channel/main/B4uMovies.m3u8
+https://tv.bdixtv24.com/toffee/live.php?id=cd113761e022&e=.m3u8
+#https://raw.githubusercontent.com/tkmani91/Channel/main/B4uMovies.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonymaxhd.jpg",SONY MAX
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonyMax.m3u8
