@@ -12,7 +12,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/Q3ffxfXS/Zee-24.jpg",Zee 24
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/Q3ffxfXS/Zee-24.jpg",DD News
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/FHL8ZsXd/DDNews.jpg",DD News
 https://raw.githubusercontent.com/tkmani91/Channel/main/DDNews.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/pBSbx04V/image.jpg",Aajtak Hd live
@@ -86,7 +86,7 @@ https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeBanglaHd.m3u8
 #http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglahd.jpg",ZEE BANGLA
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.postimg.cc/FzznJhxK/Zee-Bangla.jpg",ZEE BANGLA
 https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeBangla.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.ibb.co.com/cc7zDYXc/Colors-Bangla.jpg",Colors Bangla
@@ -171,7 +171,7 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/AnimalPlanetHd.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="http://iptvidn.com/assets/images/discoveryhd.jpg",DISCOVERY HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/DiscoveryHd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="http://iptvidn.com/assets/images/discoveryhd.jpg",HISTORY TV HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/cJGj5ydD/HISTORY-TV.jpg",HISTORY TV HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/HistoryTvHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/r2XP0bH3/travelxp.jpg",Travel XP
@@ -183,7 +183,7 @@ https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/
 https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeCinemaHd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/zee%20cinema.jpeg",Zee Cinema
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/DydByJhc/Zee-Cinema.jpg",Zee Cinema
 https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/2ybykdks/Zee-Bollywood.jpg",Zee Bollywood
@@ -294,13 +294,13 @@ https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/KjRkKSNs/AndTV.jpg",& Tv HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/AndTvHd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/KjRkKSNs/AndTV.jpg",M TV HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/R01YksFv/MTVHD.jpg",M TV HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/MtvHd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/vZW1xvrM/SonyWah.jpg",Sony Television
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/hjp5jXTw/SONYTELEVITION.jpg",Sony Television
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonyTelevision.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/vZW1xvrM/SonyWah.jpg",Sony Sab
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/50xrbBYL/SonySab.jpg",Sony Sab
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonySab.m3u8
 
 
