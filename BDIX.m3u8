@@ -70,6 +70,9 @@ https://tv.bdixtv24.com/ayna/watch.php?id=0875f2c8-2043-499b-9472-2872412a6340&f
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.postimg.cc/J09nf46D/DDBangla.jpg",DD BANGLA
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/jalshamovies.jpg",JALSHA MOVIES HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/JalshaMoviesHd.m3u8
 
@@ -143,6 +146,9 @@ https://tv.bdixtv24.com/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/discoverykids.jpg",DISCOVERY KIDS
 https://raw.githubusercontent.com/tkmani91/Channel/main/DiscoveryKids.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.ibb.co.com/fdbm305W/NICKELODEON.jpg",NICK HD+
+https://raw.githubusercontent.com/tkmani91/Channel/main/NickHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.ibb.co.com/fdbm305W/NICKELODEON.jpg",NICKELODEON
 http://143.244.60.30/NICKELODEON/index.m3u8
