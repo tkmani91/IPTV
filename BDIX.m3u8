@@ -182,7 +182,8 @@ https://tv.bdixtv24.com/ayna/watch.php?id=9a94b22f-c4a4-4150-8eb9-129d0ddeb934&f
 https://tv.bdixtv24.com/toffee/live.php?id=38060f0d4077&e=.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/cartoonnetwork.jpg",CARTOON NETWORK
-https://tv.bdixtv24.com/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8
+http://38.76.152.22:8000/play/a07d/index.m3u8
+#https://tv.bdixtv24.com/toffee/live.php?id=8be5ec5d5d7c&e=.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/discoverykids.jpg",DISCOVERY KIDS
 https://raw.githubusercontent.com/tkmani91/Channel/main/DiscoveryKids.m3u8
