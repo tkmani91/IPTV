@@ -344,7 +344,7 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/MusicIndia.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.ibb.co.com/MxBGT05h/colors-hd.jpg",Color HD
-https://github.com/rahul979854/Channels/raw/main/ColorHd.m3u8
+https://raw.githubusercontent.com/tkmani91/Channel/main/ColorHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.ibb.co.com/Z6mRgNkg/StarPlus.jpg",Star Plus HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarPlusHd.m3u8
