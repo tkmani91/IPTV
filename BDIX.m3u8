@@ -52,7 +52,8 @@ http://38.96.178.201/live/TSports/index.m3u8
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/ZRD3YZy6/ASports-Hd.jpg",A SPORTS HD
-https://tv.bdixtv24.com/sports/m3u8.php/asportshd.m3u8
+https://i.postimg.cc/pdRvvfdz/Eror404.png
+#https://tv.bdixtv24.com/sports/m3u8.php/asportshd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/3NsvpB1R/PTVSports.jpg",PTV SPORTS
 https://rex-streaming.vercel.app/api/x/167567.m3u8
@@ -61,14 +62,16 @@ https://rex-streaming.vercel.app/api/x/167567.m3u8
 https://rex-streaming.vercel.app/api/x/167568.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V0FYK1zH/ASTRO-Cricket.jpg",Astro Cricket HD
-https://raw.githubusercontent.com/tkmani91/Channel/main/AstroCricketHd.m3u8
+https://i.postimg.cc/pdRvvfdz/Eror404.png
+#https://raw.githubusercontent.com/tkmani91/Channel/main/AstroCricketHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Cricket HD
 https://rex-streaming.vercel.app/api/x/167583.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/WillowCricketHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/PzwXwbLY/starsports1.jpg",Star Sports 1 HD
-https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports1Hd.m3u8
+https://i.postimg.cc/pdRvvfdz/Eror404.png
+#https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports1Hd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/1G4wSdm8/starsports2.jpg",Star Sports 2 HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports2Hd.m3u8
