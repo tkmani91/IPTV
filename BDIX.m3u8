@@ -52,7 +52,7 @@ http://38.96.178.201/live/TSports/index.m3u8
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/ZRD3YZy6/ASports-Hd.jpg",A SPORTS HD
-https://i.postimg.cc/pdRvvfdz/Eror404.png
+https://i.postimg.cc/k4yFZdpW/Eror404.png
 #https://tv.bdixtv24.com/sports/m3u8.php/asportshd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/3NsvpB1R/PTVSports.jpg",PTV SPORTS
@@ -62,7 +62,7 @@ https://rex-streaming.vercel.app/api/x/167567.m3u8
 https://rex-streaming.vercel.app/api/x/167568.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V0FYK1zH/ASTRO-Cricket.jpg",Astro Cricket HD
-https://i.postimg.cc/pdRvvfdz/Eror404.png
+https://i.postimg.cc/k4yFZdpW/Eror404.png
 #https://raw.githubusercontent.com/tkmani91/Channel/main/AstroCricketHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Cricket HD
@@ -193,14 +193,16 @@ http://38.96.178.201/live/GaziTV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/duronto.jpg",DURONTO TV
-http://103.89.248.22:8082/DURONTO-TV/index.fmp4.m3u8?token=072e855d8ee681ce8c8d283f42f8f9e166c22e55-eb7f408fa68ddc2a78054e22d8fb775b-1748461071-1748450271
+https://i.postimg.cc/k4yFZdpW/Eror404.png
+#http://103.89.248.22:8082/DURONTO-TV/index.fmp4.m3u8?token=072e855d8ee681ce8c8d283f42f8f9e166c22e55-eb7f408fa68ddc2a78054e22d8fb775b-1748461071-1748450271
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/maasranga.jpg",MAASRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #https://tv.bdixtv24.com/ayna/watch.php?id=9a94b22f-c4a4-4150-8eb9-129d0ddeb934&format=.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/pogo.jpg",POGO KIDS
-https://tv.bdixtv24.com/toffee/live.php?id=38060f0d4077&e=.m3u8
+https://i.postimg.cc/k4yFZdpW/Eror404.png
+#https://tv.bdixtv24.com/toffee/live.php?id=38060f0d4077&e=.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/cartoonnetwork.jpg",CARTOON NETWORK
 http://38.76.152.22:8000/play/a07d/index.m3u8
