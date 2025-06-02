@@ -242,6 +242,9 @@ https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/DydByJhc/Zee-Cinema.jpg",Zee Cinema
 https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/DydByJhc/Zee-Cinema.jpg",Zee Cafe HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeCafeHd.m3u8
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/2ybykdks/Zee-Bollywood.jpg",Zee Bollywood
 https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
 
