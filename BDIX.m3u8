@@ -419,36 +419,35 @@ https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/in
 
 
 
-
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Hindi Movies
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BackupServer" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Hindi Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Bangla Movies
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BackupServer" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Bangla Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Dubbed Movies
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BackupServer" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Dubbed Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Bangla Kirtan
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BackupServer" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Bangla Kirtan
 https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Bantul The Great
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BackupServer" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Bantul The Great
 https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Gopal Bhar
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BackupServer" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Motu Patlu
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BackupServer" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Motu Patlu
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Shinchan
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BackupServer" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Shinchan
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Doraemon
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BackupServer" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Doraemon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Hindi Songs
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BackupServer" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Hindi Songs
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Bangla Songs
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BackupServer" tvg-logo="https://i.ibb.co.com/6Rjs5mSP/SANSKAR-TV.jpg",Bangla Songs
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
