@@ -193,8 +193,7 @@ http://38.96.178.201/live/GaziTV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/duronto.jpg",DURONTO TV
-https://i.postimg.cc/k4yFZdpW/Eror404.png
-#http://103.89.248.22:8082/DURONTO-TV/index.fmp4.m3u8?token=072e855d8ee681ce8c8d283f42f8f9e166c22e55-eb7f408fa68ddc2a78054e22d8fb775b-1748461071-1748450271
+http://103.89.248.22:8082/DURONTO-TV/index.fmp4.m3u8?token=7f1f376111a5e4d01f6504169a3be0e70fafd9f9-dbfbee2d35435e3d7fddba0e2d913b3e-1748881924-1748871124
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/maasranga.jpg",MAASRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
