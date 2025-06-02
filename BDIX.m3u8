@@ -12,13 +12,13 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/Q3ffxfXS/Zee-24.jpg",Zee 24
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/Q3ffxfXS/Zee-24.jpg",Zee News
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/ryKPLNdt/ZeeNews.jpg",Zee News
 https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeNews.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/FHL8ZsXd/DDNews.jpg",DD News
 https://raw.githubusercontent.com/tkmani91/Channel/main/DDNews.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/FHL8ZsXd/DDNews.jpg",India News
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/7hGzfcgd/DDIndia-News.jpg",India News
 https://raw.githubusercontent.com/tkmani91/Channel/main/IndiaNews.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/pBSbx04V/image.jpg",Aajtak Hd live
@@ -48,37 +48,43 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=11
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/ZRD3YZy6/ASports-Hd.jpg",A SPORTS HD
+https://tv.bdixtv24.com/sports/m3u8.php/asportshd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/3NsvpB1R/PTVSports.jpg",PTV SPORTS
+https://tv.bdixtv24.com/sports/m3u8.php/ptvpk.m3u8
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/PzwXwbLY/starsports1.jpg",Star Sports 1 HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports1Hd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/1G4wSdm8/starsports2.jpg",Star Sports 2 HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports2Hd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/1G4wSdm8/starsports2.jpg",Star Sports 3 HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/nrDsHmxt/Star-Sports3.jpg",Star Sports 3 HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports3Hd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/NgTrhJS2/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 Hindi
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports1Hindi.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/NgTrhJS2/Star-Sports-1-HD-Hindi.jpg",Star Sports 2 Hindi
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/RF865RjR/Starsports2-Hindi.jpg",Star Sports 2 Hindi
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports2Hindi.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/TxD6JqYK/starselect1.jpg",Star Sports 1 Select HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSport1SelectHd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/TxD6JqYK/starselect1.jpg",Star Sports 2 Select HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fkQVkbWS/Starsportsselect2hd.jpg",Star Sports 2 Select HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSport2Select2Hd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/TxD6JqYK/starselect1.jpg",SONY SPORTS 1 HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/9Qj9QLzg/SONYSports-Ten1-HD.jpg",SONY SPORTS 1 HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonySports1Hd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/TxD6JqYK/starselect1.jpg",SONY SPORTS 2 HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/6pLv2CvW/SONYSports-Ten2-HD.jpg",SONY SPORTS 2 HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonySports2Hd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/TxD6JqYK/starselect1.jpg",SONY SPORTS 3 HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/rpVtSz1S/SONYSports-Ten3-HD.jpg",SONY SPORTS 3 HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonySports3Hd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/TxD6JqYK/starselect1.jpg",SONY SPORTS 5 HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/zfxHp574/SONYSports-Ten5-HD.jpg",SONY SPORTS 5 HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonySports5Hd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/TxD6JqYK/starselect1.jpg",HUB SPORTS 2
@@ -257,7 +263,7 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/StarGoldHd2.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/cHJ6jyV4/Star-Gold-Select.jpg",Star Gold Select HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarGoldSelectHd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/cHJ6jyV4/Star-Gold-Select.jpg",Star Telegu
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/nzMjP5wr/Star-Movies-Telegu.jpg",Star Movies Telegu
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarTelegu.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/d0LQRQ4d/Bollywood-HD.jpg",BollywooD HD
@@ -290,10 +296,10 @@ https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/b4umovies.jpg",B4U MOVIES
 https://raw.githubusercontent.com/tkmani91/Channel/main/B4uMovies.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonymaxhd.jpg",SONY MAX
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/J4XJ8f7B/Sony-Maxnew.jpg",SONY MAX
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonyMax.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonymaxhd.jpg",SONY MAX HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/HWR5fYmg/Sony-Max-HD.jpg",SONY MAX HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonyMaxHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonypix.jpg",SONY PIX
