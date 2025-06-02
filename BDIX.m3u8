@@ -311,7 +311,7 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/SonyPix.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/9xm.jpg",9XM
 https://raw.githubusercontent.com/tkmani91/Channel/main/9Xm.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/9xm.jpg",9XJalwa
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/tg82qLnZ/9XJalwa.jpg",9XJalwa
 https://raw.githubusercontent.com/tkmani91/Channel/main/9XJalwa.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.ibb.co.com/tkTsdY1/YRF-Music.jpg",Yrf Music
@@ -333,10 +333,10 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/B4uMusic.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/HkGcLN7B/Sangit-Bangla.png",Sangeet Bangla
 https://raw.githubusercontent.com/tkmani91/Channel/main/SangeetBangla.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/b4umusic.jpg",SUN MUSIC
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/fyfKvy2m/SunMusic.jpg",SUN MUSIC
 https://raw.githubusercontent.com/tkmani91/Channel/main/SunMusic.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/b4umusic.jpg",MUSIC INDIA
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/Y0HRgY3t/Music-India.jpg",MUSIC INDIA
 https://raw.githubusercontent.com/tkmani91/Channel/main/MusicIndia.m3u8
 
 
@@ -349,7 +349,7 @@ https://github.com/rahul979854/Channels/raw/main/StarPlusHd.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/Bv4jT1pF/Star-Bharat.jpg",Star Bharat
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarBharat.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/Bv4jT1pF/Star-Bharat.jpg",National HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/fLX5JBYH/DDNational-Hd.jpg",National HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/NationalHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/Bv4jT1pF/Star-Bharat.jpg",Hum HD
