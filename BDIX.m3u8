@@ -352,7 +352,7 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/StarBharat.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/fLX5JBYH/DDNational-Hd.jpg",National HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/NationalHd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/Bv4jT1pF/Star-Bharat.jpg",Hum HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/3JwpqtWP/HumTV.jpg",Hum HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/HumHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/J7vtTFKM/ZeeTVHD.jpg",Zee Tv HD
