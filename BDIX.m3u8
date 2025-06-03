@@ -74,6 +74,9 @@ https://rex-streaming.vercel.app/api/x/167581.m3u8
 https://rex-streaming.vercel.app/api/x/167583.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/WillowCricketHd.m3u8
 
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow 2 HD
+https://rex-streaming.vercel.app/api/x/167582.m3u8
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/PzwXwbLY/starsports1.jpg",Star Sports 1 HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports1Hd.m3u8
 
