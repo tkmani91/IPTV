@@ -58,8 +58,8 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/ZRD3YZy6/ASports-Hd.jpg",A SPORTS HD
-http://38.76.152.22:8000/play/a032/index.m3u8
-#http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#http://38.76.152.22:8000/play/a032/index.m3u8
 #https://tv.bdixtv24.com/sports/m3u8.php/asportshd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/3NsvpB1R/PTVSports.jpg",PTV SPORTS
