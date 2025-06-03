@@ -66,7 +66,8 @@ http://38.96.178.201/live/PTVSports/index.m3u8
 #https://rex-streaming.vercel.app/api/x/167567.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/HkPnsvfX/GeoSuper.jpg",Geo Super
-https://rex-streaming.vercel.app/api/x/167568.m3u8
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+#https://rex-streaming.vercel.app/api/x/167568.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V0FYK1zH/ASTRO-Cricket.jpg",Astro Cricket HD
 https://rex-streaming.vercel.app/api/x/167581.m3u8
