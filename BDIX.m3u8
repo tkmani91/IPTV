@@ -52,8 +52,7 @@ http://38.96.178.201/live/TSports/index.m3u8
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/ZRD3YZy6/ASports-Hd.jpg",A SPORTS HD
-https://i.postimg.cc/k4yFZdpW/Eror404.png
-#https://tv.bdixtv24.com/sports/m3u8.php/asportshd.m3u8
+https://tv.bdixtv24.com/sports/m3u8.php/asportshd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/3NsvpB1R/PTVSports.jpg",PTV SPORTS
 https://rex-streaming.vercel.app/api/x/167567.m3u8
@@ -70,8 +69,7 @@ https://rex-streaming.vercel.app/api/x/167583.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/WillowCricketHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/PzwXwbLY/starsports1.jpg",Star Sports 1 HD
-https://i.postimg.cc/pdRvvfdz/Eror404.png
-#https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports1Hd.m3u8
+https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports1Hd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/1G4wSdm8/starsports2.jpg",Star Sports 2 HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports2Hd.m3u8
@@ -102,6 +100,24 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/SonySports3Hd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/zfxHp574/SONYSports-Ten5-HD.jpg",SONY SPORTS 5 HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonySports5Hd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/zf0zkrFT/Sky-Sports.jpg",Sky Sports Cricket HD
+https://raw.githubusercontent.com/tkmani91/Channel/main/SkySportsCricketHd.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/26yzcK0M/Sky-Sports-Mix.jpg",Sky Sports Mix
+https://raw.githubusercontent.com/tkmani91/Channel/main/SkySportsMix.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/x8b9YbDP/T-Sports-1.jpg",TNT Sports 1
+https://raw.githubusercontent.com/tkmani91/Channel/main/TNTSports1.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/vBKGptjB/T-Sports-2.jpg",TNT Sports 2
+https://raw.githubusercontent.com/tkmani91/Channel/main/TNTSports2.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fknDbTMQ/T-Sports-3.jpg",TNT Sports 3
+https://raw.githubusercontent.com/tkmani91/Channel/main/TNTSports3.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/xjkmqx96/T-Sports-5.jpg",TNT Sports 5
+https://raw.githubusercontent.com/tkmani91/Channel/main/TNTSports5.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/jdvwQPXZ/Hub-Sports2.jpg",HUB SPORTS 2
 https://raw.githubusercontent.com/tkmani91/Channel/main/HubSports2.m3u8
