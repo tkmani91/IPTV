@@ -62,7 +62,8 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 https://tv.bdixtv24.com/sports/m3u8.php/asportshd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/3NsvpB1R/PTVSports.jpg",PTV SPORTS
-https://rex-streaming.vercel.app/api/x/167567.m3u8
+http://38.96.178.201/live/PTVSports/index.m3u8
+#https://rex-streaming.vercel.app/api/x/167567.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/HkPnsvfX/GeoSuper.jpg",Geo Super
 https://rex-streaming.vercel.app/api/x/167568.m3u8
@@ -404,7 +405,8 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 https://raw.githubusercontent.com/tkmani91/Channel/main/B4uMusic.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/HkGcLN7B/Sangit-Bangla.png",Sangeet Bangla
-https://raw.githubusercontent.com/tkmani91/Channel/main/SangeetBangla.m3u8
+http://38.96.178.201/live/SangeetBangla/index.m3u8
+#https://raw.githubusercontent.com/tkmani91/Channel/main/SangeetBangla.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/fyfKvy2m/SunMusic.jpg",SUN MUSIC
 https://raw.githubusercontent.com/tkmani91/Channel/main/SunMusic.m3u8
