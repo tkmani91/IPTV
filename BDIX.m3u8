@@ -31,10 +31,10 @@ https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/KzNhHBdj/BBC-Asia.jpg",BBC News Asia
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/KzNhHBdj/BBC-Asia.jpg",DW News
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/02HPrs04/DWnews.jpg",DW News
 https://raw.githubusercontent.com/tkmani91/Channel/main/DwNews.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/KzNhHBdj/BBC-Asia.jpg",CNN
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/nV2Hb7jp/CNN.jpg",CNN
 https://raw.githubusercontent.com/tkmani91/Channel/main/Cnn.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/DPTm2yMT/ekattortv.jpg",Ekattor TV
@@ -134,13 +134,13 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/HubSports3.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/nhPXNxNm/Hub-Sports4.jpg",HUB SPORTS 4
 https://raw.githubusercontent.com/tkmani91/Channel/main/HubSports4.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/nhPXNxNm/Hub-Sports4.jpg",beIN SPORTS 1
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/sgvfJX2y/Bein-Sports1.jpg",beIN SPORTS 1
 https://raw.githubusercontent.com/tkmani91/Channel/main/BeinSports1.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/nhPXNxNm/Hub-Sports4.jpg",beIN SPORTS 2
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/pXVLpkbm/Bein-Sports-2.jpg",beIN SPORTS 2
 https://raw.githubusercontent.com/tkmani91/Channel/main/BeinSports2.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/nhPXNxNm/Hub-Sports4.jpg",beIN SPORTS 3
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/qvSJDTtK/Bein-Sports3.jpg",beIN SPORTS 3
 https://raw.githubusercontent.com/tkmani91/Channel/main/BeinSports3.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/rFhstcVH/DDSports.jpg",DD SPORTS
@@ -258,7 +258,7 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/BabyTv.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.postimg.cc/nLjzsYJ5/Gubbare.jpg",GUBBARE
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.postimg.cc/j2mWPg3q/BabyTV.jpg",CBeebies
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.postimg.cc/zfhJ9cWc/CBeebies.jpg",CBeebies
 https://raw.githubusercontent.com/tkmani91/Channel/main/Cbeebies.m3u8
 
 
@@ -266,7 +266,7 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/Cbeebies.m3u8
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonyBbcEarth.m3u8
 #https://tv.bdixtv24.com/toffee/live.php?id=a6497ebbf14f&e=.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/cKt4Dqnt/BBC-EAR.jpg",BBC EARTH
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/zXdXWW80/BbcEarth.jpg",BBC EARTH
 https://raw.githubusercontent.com/tkmani91/Channel/main/BbcEarth.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/qM664rgN/National-Geographic.jpg",National Geographic
@@ -333,7 +333,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/N6NpRPbH/Shemaroo-Bollywood.jpg",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/0RMv6mQv/xplor-HD.jpg",& Pictures HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/NFDGd2TG/Phd.jpg",& Pictures HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/AndPicturesHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/0RMv6mQv/xplor-HD.jpg",& Xplor HD
@@ -364,19 +364,16 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/SonyMaxHd.m3u8
 https://raw.githubusercontent.com/tkmani91/Channel/main/SonyPix.m3u8
 #https://tv.bdixtv24.com/toffee/live.php?id=ea02096b0fbc&e=.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonypix.jpg",MTV LIV
-https://raw.githubusercontent.com/tkmani91/Channel/main/MtvLiv.m3u8
-
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonypix.jpg",HITS MOVIES
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/T3LGD4k3/Hits-Movies.jpg",HITS MOVIES
 https://raw.githubusercontent.com/tkmani91/Channel/main/HitsMovies.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonypix.jpg",CINEMAX
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/zvz8HDQs/Cinemax.jpg",CINEMAX
 https://raw.githubusercontent.com/tkmani91/Channel/main/Cinemax.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonypix.jpg",CELESTIAL MOVIES
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/QtkjMKfg/Celestial-Movies.jpg",CELESTIAL MOVIES
 https://raw.githubusercontent.com/tkmani91/Channel/main/CelestialMovies.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/sonypix.jpg",AXN
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/8kmCp938/axn.jpg",AXN
 https://raw.githubusercontent.com/tkmani91/Channel/main/Axn.m3u8
 
 
@@ -414,7 +411,8 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/MusicIndia.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/tJyCmKxQ/ZooM.jpg",ZOOM
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/MpCwbm4b/MTV-LIVE.jpg",MTV LIVE
+https://raw.githubusercontent.com/tkmani91/Channel/main/MtvLive.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.ibb.co.com/MxBGT05h/colors-hd.jpg",Color HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/ColorHd.m3u8
