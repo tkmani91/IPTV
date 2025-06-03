@@ -246,7 +246,8 @@ http://38.76.152.22:8000/play/a07d/index.m3u8
 https://raw.githubusercontent.com/tkmani91/Channel/main/DiscoveryKids.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.postimg.cc/ydFWJZxh/NickHD.jpg",NICK HD+
-https://raw.githubusercontent.com/tkmani91/Channel/main/NickHd.m3u8
+http://mytv-extra.com:88/live/974653543656/MeaX2XAEDMTiPrD/400159483.m3u8
+#https://raw.githubusercontent.com/tkmani91/Channel/main/NickHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.postimg.cc/k4rBXcJX/Nickelodeon-Sonic.jpg",NICKELODOON SONIC
 https://raw.githubusercontent.com/tkmani91/Channel/main/NickelodoonSonic.m3u8
