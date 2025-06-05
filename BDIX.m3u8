@@ -71,12 +71,12 @@ http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #https://rex-streaming.vercel.app/api/x/167568.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V0FYK1zH/ASTRO-Cricket.jpg",Astro Cricket HD
-https://rex-streaming.vercel.app/api/x/167581.m3u8
+https://i.imgur.com/XBkKRaZ.png
 #https://raw.githubusercontent.com/tkmani91/Channel/main/AstroCricketHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Cricket HD
-https://rex-streaming.vercel.app/api/x/167583.m3u8
-#https://raw.githubusercontent.com/tkmani91/Channel/main/WillowCricketHd.m3u8
+https://raw.githubusercontent.com/tkmani91/Channel/main/WillowCricketHd.m3u8
+#https://rex-streaming.vercel.app/api/x/167583.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow 2 HD
 https://rex-streaming.vercel.app/api/x/167582.m3u8
