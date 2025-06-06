@@ -29,7 +29,8 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/KzNhHBdj/BBC-Asia.jpg",BBC News Asia
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+https://i.imgur.com/XBkKRaZ.png
+#https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/02HPrs04/DWnews.jpg",DW News
 https://raw.githubusercontent.com/tkmani91/Channel/main/DwNews.m3u8
@@ -79,7 +80,8 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/WillowCricketHd.m3u8
 #https://rex-streaming.vercel.app/api/x/167583.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow 2 HD
-https://rex-streaming.vercel.app/api/x/167582.m3u8
+https://i.imgur.com/XBkKRaZ.png
+#https://rex-streaming.vercel.app/api/x/167582.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/PzwXwbLY/starsports1.jpg",Star Sports 1 HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports1Hd.m3u8
@@ -91,7 +93,8 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports2Hd.m3u8
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports3Hd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/NgTrhJS2/Star-Sports-1-HD-Hindi.jpg",Star Sports 1 Hindi
-https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports1Hindi.m3u8
+https://i.imgur.com/XBkKRaZ.png
+#https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports1Hindi.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/RF865RjR/Starsports2-Hindi.jpg",Star Sports 2 Hindi
 https://raw.githubusercontent.com/tkmani91/Channel/main/StarSports2Hindi.m3u8
@@ -231,11 +234,11 @@ http://38.96.178.201/live/GaziTV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/duronto.jpg",DURONTO TV
-http://103.89.248.22:8082/DURONTO-TV/index.fmp4.m3u8?token=7f1f376111a5e4d01f6504169a3be0e70fafd9f9-dbfbee2d35435e3d7fddba0e2d913b3e-1748881924-1748871124
+http://103.89.248.22:8082/DURONTO-TV/index.fmp4.m3u8?token=04e347431fec7373ed1319dca92c7c1ed94b149c-f37a726642ddfbff66dc5ee5db875470-1749213342-1749202542
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/maasranga.jpg",MAASRANGA TV
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#https://tv.bdixtv24.com/ayna/watch.php?id=9a94b22f-c4a4-4150-8eb9-129d0ddeb934&format=.m3u8
+https://tv.bdixtv24.com/ayna/watch.php?id=9a94b22f-c4a4-4150-8eb9-129d0ddeb934&format=.m3u8
+#https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/pogo.jpg",POGO KIDS
 https://tv.bdixtv24.com/toffee/live.php?id=38060f0d4077&e=.m3u8
