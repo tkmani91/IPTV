@@ -166,7 +166,8 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/BeinSports3.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/rFhstcVH/DDSports.jpg",DD SPORTS
 https://raw.githubusercontent.com/tkmani91/Channel/main/DdSports.m3u8
 
-
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/8kmCp938/axn.jpg",AXN SPORTS
+https://raw.githubusercontent.com/tkmani91/Channel/main/Axn.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="http://iptvidn.com/assets/images/dbc.jpg",DBC NEWS
@@ -413,9 +414,6 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/Cinemax.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/QtkjMKfg/Celestial-Movies.jpg",CELESTIAL MOVIES
 https://raw.githubusercontent.com/tkmani91/Channel/main/CelestialMovies.m3u8
-
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/8kmCp938/axn.jpg",AXN
-https://raw.githubusercontent.com/tkmani91/Channel/main/Axn.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/8kmCp938/axn.jpg",HBO
 http://212.102.60.231/HBO_2/index.m3u8
