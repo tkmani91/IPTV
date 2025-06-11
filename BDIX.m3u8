@@ -29,7 +29,7 @@ https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/li
 https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/KzNhHBdj/BBC-Asia.jpg",BBC News Asia
-https://i.imgur.com/XBkKRaZ.png
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/02HPrs04/DWnews.jpg",DW News
@@ -54,8 +54,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=11
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="http://iptvidn.com/assets/images/tsports.jpg",T SPORTS
-https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-#http://38.96.178.201/live/TSports/index.m3u8
+http://38.96.178.201/live/TSports/index.m3u8
+#https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #http://kst.moonplex.net:8080/CH2/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="http://iptvidn.com/assets/images/gazi.jpg",G TV
@@ -221,9 +221,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/sunbangla.jpg",SUN BANGLA
 http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.postimg.cc/fb4sSNHV/Sananda-TV.jpg",SANANDA TV
-http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
-
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.ibb.co.com/pjtccM4b/BTV.jpg",BTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
@@ -246,7 +243,7 @@ http://38.96.178.201/live/GaziTV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/duronto.jpg",DURONTO TV
-http://103.89.248.22:8082/DURONTO-TV/index.fmp4.m3u8?token=04e347431fec7373ed1319dca92c7c1ed94b149c-f37a726642ddfbff66dc5ee5db875470-1749213342-1749202542
+http://103.89.248.26:8082/DURONTO-TV/index.fmp4.m3u8?token=c664d8f13bb61c5892eda11e47763707d6d31d9e-3585a90c63680faee44ef6d8474c02fd-1749674422-1749663622
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/maasranga.jpg",MAASRANGA TV
 https://tv.bdixtv24.com/ayna/watch.php?id=9a94b22f-c4a4-4150-8eb9-129d0ddeb934&format=.m3u8
@@ -351,7 +348,8 @@ https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 https://raw.githubusercontent.com/tkmani91/Channel/main/ColorCineplexHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/d01D83Yz/STAR-Movies.jpg",Star Movies HD
-https://rex-streaming.vercel.app/api/x/109970.m3u8
+https://i.imgur.com/XBkKRaZ.png
+#https://rex-streaming.vercel.app/api/x/109970.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/B5C3ZMxk/Star-Gold.jpg",Star Gold HD
 http://38.96.178.201/live/StarGold/index.m3u8
@@ -382,7 +380,7 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/AndPicturesHd.m3u8
 https://live.drmlive-02.workers.dev/zee/209.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/AndXplorHd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/qMLrfJ7y/xplor-HD-Pride.jpg",& Pride HD
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/qMLrfJ7y/xplor-HD-Pride.jpg",& Prive HD
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 #https://rex-streaming.vercel.app/api/x/109963.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/AndPrideHd.m3u8
