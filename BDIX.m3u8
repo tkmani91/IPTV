@@ -13,7 +13,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/ryKPLNdt/ZeeNews.jpg",Zee News
-https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeNews.m3u8
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeNews.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.postimg.cc/FHL8ZsXd/DDNews.jpg",DD News
 https://raw.githubusercontent.com/tkmani91/Channel/main/DDNews.m3u8
@@ -181,8 +182,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/1703-audio_113332_eng=11
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/jalshamovies.jpg",JALSHA MOVIES HD
-https://raw.githubusercontent.com/tkmani91/Channel/main/JalshaMoviesHd.m3u8
-#http://38.96.178.201/live/JalshaMovies/index.m3u8
+http://38.96.178.201/live/JalshaMovies/index.m3u8
+#https://raw.githubusercontent.com/tkmani91/Channel/main/JalshaMoviesHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglacinema.jpg",Zee Bangla Cinema
 https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
@@ -191,8 +192,9 @@ https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/starjalsha.jpg",STAR JALSHA HD
-https://raw.githubusercontent.com/tkmani91/Channel/main/StarJalsha.m3u8
-#http://38.96.178.201/live/STARJALSHA/index.m3u8
+http://38.96.178.201/live/STARJALSHA/index.m3u8
+#https://raw.githubusercontent.com/tkmani91/Channel/main/StarJalsha.m3u8
+
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.postimg.cc/mrvr7zZr/Ruposi-Bangla.jpg",RUPOSHI BANGLA
 http://38.96.178.201/live/RuposhiBangla/index.m3u8
