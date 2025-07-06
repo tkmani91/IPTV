@@ -65,7 +65,7 @@ https://tvsen6.aynaott.com/atnnews/index.m3u8
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/1706-audio_113362_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/RpHd59Jm/unnamed.png",CHANNEL 24
-https://tvsen6.aynaott.com/channel24/index.m3u8
+http://starshare.org/live/kumar11/kumar11/391.ts
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co/1JMtP4y0/news24-channel-logo-png-seeklogo-362149-removebg-preview.png",NEWS 24
 https://tvsen6.aynaott.com/news24/index.m3u8
