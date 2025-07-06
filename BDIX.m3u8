@@ -343,7 +343,7 @@ http://38.96.178.201/live/AnimalPlanet/index.m3u8
 https://raw.githubusercontent.com/tkmani91/Channel/main/AnimalPlanetHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="http://iptvidn.com/assets/images/discoveryhd.jpg",DISCOVERY
-http://38.96.178.201/live/Discovery/index.m3u8
+http://starshare.org/live/kumar11/kumar11/406.ts
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="http://iptvidn.com/assets/images/discoveryhd.jpg",DISCOVERY HD
 https://raw.githubusercontent.com/tkmani91/Channel/main/DiscoveryHd.m3u8
