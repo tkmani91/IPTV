@@ -279,7 +279,8 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/DurontoTv.m3u8
 #https://tvsen6.aynaott.com/durontotv/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/maasranga.jpg",MAASRANGA TV
-https://raw.githubusercontent.com/tkmani91/Channel/main/MaasrangaTv.m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/97.m3u8
+#https://raw.githubusercontent.com/tkmani91/Channel/main/MaasrangaTv.m3u8
 #http://starshare.org/live/kumar11/kumar11/1036.ts
 #https://tv.bdixtv24.com/ayna/watch.php?id=9a94b22f-c4a4-4150-8eb9-129d0ddeb934&format=.m3u8
 #https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
