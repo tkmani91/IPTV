@@ -218,17 +218,15 @@ http://38.96.178.201/live/STARJALSHA/index.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.postimg.cc/mrvr7zZr/Ruposi-Bangla.jpg",RUPOSHI BANGLA
-http://tv.bdiptv.store/live/restream/restreamkk/152.ts
+https://raw.githubusercontent.com/tkmani91/Channel/main/RuposhiBangla.m3u8
 #http://38.96.178.201/live/RuposhiBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglahd.jpg",ZEE BANGLA HD
-http://starshare.org/live/kumar11/kumar11/435.ts
+https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeBanglaHd.m3u8
 #http://tv.bdiptv.store/live/restream/restreamkk/15252.ts
-#https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeBanglaHd.m3u8
 #http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.postimg.cc/FzznJhxK/Zee-Bangla.jpg",ZEE BANGLA
-http://tv.bdiptv.store/live/restream/restreamkk/14.m3u8
 https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeBangla.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.ibb.co.com/cc7zDYXc/Colors-Bangla.jpg",Colors Bangla
@@ -236,10 +234,11 @@ http://38.96.178.201/live/ColorsBangla/index.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/ColorBangla.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/akashaath.jpg",Akash Aath
-http://38.96.178.201/live/AkashAath/index.m3u8
+https://raw.githubusercontent.com/tkmani91/Channel/main/AkashAath.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.ibb.co.com/5XKXFdFh/Sony-Aath.jpg",SONY AATH
-http://38.96.178.201/live/SonyAath/index.m3u8
+https://raw.githubusercontent.com/tkmani91/Channel/main/SonyAath.m3u8
+#http://38.96.178.201/live/SonyAath/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/enterr10.jpg",ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -249,35 +248,40 @@ http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.ibb.co.com/pjtccM4b/BTV.jpg",BTV
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/1709.m3u8
+http://38.96.178.201/live/BTV/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg",Channel I
 https://tvsen6.aynaott.com/channeli/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.ibb.co.com/fd3bVqK9/Diptp-Tv.jpg",DEEPTO TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1711/output/master.m3u8
+https://raw.githubusercontent.com/tkmani91/Channel/main/DeeptoTv.m3u8
+#https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/atnbangla.jpg",ATN BANGLA
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/master.m3u8
+https://raw.githubusercontent.com/tkmani91/Channel/main/AtnBangla.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.ibb.co.com/1YgLr6rh/Banglavision.jpg",Banglavision
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
+https://raw.githubusercontent.com/tkmani91/Channel/main/Banglavision.m3u8
+#http://tv.bdiptv.store/live/restream/restreamkk/61.ts
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.ibb.co.com/23wy52bR/R-TV.jpg",R TV
 https://tvsen6.aynaott.com/rtv/index.m3u8
 #https://tv.bdixtv24.com/ayna/watch.php?id=70e97db9-5a9e-4642-874e-af3d30ba9925&format=.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/gazi.jpg",Gazi TV
-http://38.96.178.201/live/GaziTV/index.m3u8
+https://raw.githubusercontent.com/tkmani91/Channel/main/GaziTv.m3u8
+#http://38.96.178.201/live/GaziTV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/duronto.jpg",DURONTO TV
-https://tvsen6.aynaott.com/durontotv/index.m3u8
-#http://103.89.248.26:8082/DURONTO-TV/index.fmp4.m3u8?token=c664d8f13bb61c5892eda11e47763707d6d31d9e-3585a90c63680faee44ef6d8474c02fd-1749674422-1749663622
+https://raw.githubusercontent.com/tkmani91/Channel/main/DurontoTv.m3u8
+#https://tvsen6.aynaott.com/durontotv/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/maasranga.jpg",MAASRANGA TV
-https://tv.bdixtv24.com/ayna/watch.php?id=9a94b22f-c4a4-4150-8eb9-129d0ddeb934&format=.m3u8
+https://raw.githubusercontent.com/tkmani91/Channel/main/MaasrangaTv.m3u8
+#http://starshare.org/live/kumar11/kumar11/1036.ts
+#https://tv.bdixtv24.com/ayna/watch.php?id=9a94b22f-c4a4-4150-8eb9-129d0ddeb934&format=.m3u8
 #https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="http://iptvidn.com/assets/images/maasranga.jpg",ZB CARTOON
