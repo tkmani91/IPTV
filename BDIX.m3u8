@@ -208,9 +208,6 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/JalshaMoviesHd.m3u8
 https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeBanglaCinema.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglacinema.jpg",ZB Cinema
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/starjalsha.jpg",STAR JALSHA HD
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 #http://tv.bdiptv.store/live/restream/restreamkk/52.m3u8
@@ -305,9 +302,6 @@ http://xtv.ooo:8080/Jamal3m/Lhr@3m/150482
 #http://mytv-extra.com:88/live/974653543656/MeaX2XAEDMTiPrD/400159483.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/NickHd.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.postimg.cc/k4rBXcJX/Nickelodeon-Sonic.jpg",NICKELODOON SONIC
-https://raw.githubusercontent.com/tkmani91/Channel/main/NickelodoonSonic.m3u8
-
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.ibb.co.com/fdbm305W/NICKELODEON.jpg",NICKELODEON
 http://143.244.60.30/NICKELODEON/index.m3u8
 
@@ -327,12 +321,11 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/BabyTv.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.postimg.cc/nLjzsYJ5/Gubbare.jpg",GUBBARE
 https://epiconvh.akamaized.net/live/gubbare/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="KIDS TV" tvg-logo="https://i.postimg.cc/zfhJ9cWc/CBeebies.jpg",CBeebies
-https://raw.githubusercontent.com/tkmani91/Channel/main/Cbeebies.m3u8
-
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/cKt4Dqnt/BBC-EAR.jpg",SONY BBC EARTH HD
-https://raw.githubusercontent.com/tkmani91/Channel/main/SonyBbcEarth.m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/31.m3u8
+#https://raw.githubusercontent.com/tkmani91/Channel/main/SonyBbcEarth.m3u8
+#http://starshare.org/live/kumar11/kumar11/9396.ts
 #https://tv.bdixtv24.com/toffee/live.php?id=a6497ebbf14f&e=.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/zXdXWW80/BbcEarth.jpg",BBC EARTH
