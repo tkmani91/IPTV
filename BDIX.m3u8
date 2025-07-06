@@ -102,21 +102,16 @@ http://38.96.178.201/live/PTVSports/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/HkPnsvfX/GeoSuper.jpg",Geo Super
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
-#https://rex-streaming.vercel.app/api/x/167568.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V0FYK1zH/ASTRO-Cricket.jpg",Astro Cricket HD
-https://tv.bdixtv24.com/sports/m3u8.php/fox501.m3u8
-#https://raw.githubusercontent.com/tkmani91/Channel/main/AstroCricketHd.m3u8
+https://raw.githubusercontent.com/tkmani91/Channel/main/AstroCricketHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Cricket HD
 http://38.96.178.201/live/WILLOWTV/index.m3u8
-#https://tv.bdixtv24.com/sports/m3u8.php/willowusa.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/WillowCricketHd.m3u8
-#https://rex-streaming.vercel.app/api/x/167583.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow 2 HD
 https://i.imgur.com/XBkKRaZ.png
-#https://rex-streaming.vercel.app/api/x/167582.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/dJK2jZVF/foxsports1.jpg",FoxS Sports
 https://raw.githubusercontent.com/tkmani91/Channel/main/FoxSports501Hd.m3u8
@@ -206,29 +201,35 @@ https://raw.githubusercontent.com/tkmani91/Channel/main/Axn.m3u8
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/jalshamovies.jpg",JALSHA MOVIES HD
-http://38.96.178.201/live/JalshaMovies/index.m3u8
+http://starshare.org/live/kumar11/kumar11/425.ts
+#http://38.96.178.201/live/JalshaMovies/index.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/JalshaMoviesHd.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglacinema.jpg",Zee Bangla Cinema
-https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/27.m3u8
+#https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglacinema.jpg",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/starjalsha.jpg",STAR JALSHA HD
 http://38.96.178.201/live/STARJALSHA/index.m3u8
+#http://tv.bdiptv.store/live/restream/restreamkk/52.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/StarJalsha.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.postimg.cc/mrvr7zZr/Ruposi-Bangla.jpg",RUPOSHI BANGLA
-http://38.96.178.201/live/RuposhiBangla/index.m3u8
+http://tv.bdiptv.store/live/restream/restreamkk/152.ts
+#http://38.96.178.201/live/RuposhiBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglahd.jpg",ZEE BANGLA HD
-https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
+http://starshare.org/live/kumar11/kumar11/435.ts
+#http://tv.bdiptv.store/live/restream/restreamkk/15252.ts
 #https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeBanglaHd.m3u8
 #http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.postimg.cc/FzznJhxK/Zee-Bangla.jpg",ZEE BANGLA
+http://tv.bdiptv.store/live/restream/restreamkk/14.m3u8
 https://raw.githubusercontent.com/tkmani91/Channel/main/ZeeBangla.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BANGLA TV" tvg-logo="https://i.ibb.co.com/cc7zDYXc/Colors-Bangla.jpg",Colors Bangla
