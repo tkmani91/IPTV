@@ -47,7 +47,8 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/2445.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/Cnn.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS TV" tvg-logo="https://i.ibb.co.com/DPTm2yMT/ekattortv.jpg",Ekattor TV
-http://38.96.178.201/live/Ekattor/index.m3u8
+http://starshare.org/live/kumar11/kumar11/428.ts
+#http://38.96.178.201/live/Ekattor/index.m3u8
 #https://m.xigzo.store/yt/live.php?video_id=Byw9GNvDz8A
 #https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 
