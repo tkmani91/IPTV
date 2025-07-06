@@ -467,10 +467,9 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/4598c408-0e38-488c-9b64-fc845d1ea2b6/0.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/B4uMusic.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/HkGcLN7B/Sangit-Bangla.png",Sangeet Bangla
-http://starshare.org/live/kumar11/kumar11/405.ts
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/HkGcLN7B/Sangit-Bangla.png",SANGEET BANGLA
+https://raw.githubusercontent.com/tkmani91/Channel/main/SangeetBangla.m3u8
 #http://38.96.178.201/live/SangeetBangla/index.m3u8
-#https://raw.githubusercontent.com/tkmani91/Channel/main/SangeetBangla.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/fyfKvy2m/SunMusic.jpg",SUN MUSIC
 https://raw.githubusercontent.com/tkmani91/Channel/main/SunMusic.m3u8
