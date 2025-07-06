@@ -468,7 +468,8 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #https://raw.githubusercontent.com/tkmani91/Channel/main/B4uMusic.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/HkGcLN7B/Sangit-Bangla.png",Sangeet Bangla
-http://38.96.178.201/live/SangeetBangla/index.m3u8
+http://starshare.org/live/kumar11/kumar11/405.ts
+#http://38.96.178.201/live/SangeetBangla/index.m3u8
 #https://raw.githubusercontent.com/tkmani91/Channel/main/SangeetBangla.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/fyfKvy2m/SunMusic.jpg",SUN MUSIC
