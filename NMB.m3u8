@@ -1,45 +1,45 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",HOME INNER
-rtsp://admin:hik12345@192.168.1.32
+rtsp://admin:hik12345@192.168.1.32:554
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",SHOP
-rtsp://admin:hik12345@192.168.1.20
+rtsp://admin:hik12345@192.168.1.20:554
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",SHOP CASH
 rtsp://admin:HLZAHR@192.168.1.108
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",ROAD SIDE 01
-rtsp://admin:hik12345@192.168.1.21
+rtsp://admin:hik12345@192.168.1.21:554
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",ROAD SIDE 02
-rtsp://admin:hik12345@192.168.1.22
+rtsp://admin:hik12345@192.168.1.22:554
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",ROAD SIDE 03
-rtsp://admin:hik12345@192.168.1.23
+rtsp://admin:hik12345@192.168.1.23:554
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",HOME BACK SIDE 01
-rtsp://admin:hik12345@192.168.1.29
+rtsp://admin:hik12345@192.168.1.29:554
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",HOME BACK SIDE 02
-rtsp://admin:hik12345@192.168.1.30
+rtsp://admin:hik12345@192.168.1.30:554
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",HOME BACK SIDE 03
-rtsp://admin:hik12345@192.168.1.31
+rtsp://admin:hik12345@192.168.1.31:554
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",GODOWN MID 01
-rtsp://admin:hik12345@192.168.1.24
+rtsp://admin:hik12345@192.168.1.24:554
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",GODOWN MID 02
-rtsp://admin:hik12345@192.168.1.25
+rtsp://admin:hik12345@192.168.1.25:554
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",GODOWN FORNT SUTTER
-rtsp://admin:hik12345@192.168.1.26
+rtsp://admin:hik12345@192.168.1.26:554
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",GODOWN ROAD S1
-rtsp://admin:hik12345@192.168.1.28
+rtsp://admin:hik12345@192.168.1.28:554
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="NVR" group-title="CC TV" tvg-logo="https://i.postimg.cc/k5WHWrxJ/Hik-Logo.jpg",GODOWN ROAD S2
-rtsp://admin:hik12345@192.168.1.27
+rtsp://admin:hik12345@192.168.1.27:554
 
 
 
