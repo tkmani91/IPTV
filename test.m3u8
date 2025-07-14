@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:3
+#EXT-X-TARGETDURATION:6
+#EXTINF:3.000,,
+http://starshare.org/live/kumar11/kumar11/428.ts
 #EXTINF:3.000,,
 http://starshare.org/live/kumar11/kumar11/428.ts
 #EXT-X-ENDLIST
