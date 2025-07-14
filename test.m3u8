@@ -2,11 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:20
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:4,
-http://starshare.org/live/kumar11/kumar11/428.ts
-#EXTINF:4,
-http://starshare.org/live/kumar11/kumar11/428.ts
-#EXTINF:4,
-http://starshare.org/live/kumar11/kumar11/428.ts
-#EXTINF:4,
+#EXTINF:20,
 http://starshare.org/live/kumar11/kumar11/428.ts
