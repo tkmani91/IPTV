@@ -40,9 +40,11 @@ http://starshare.org/live/kumar11/kumar11/130714.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="http://iptvidn.com/assets/images/gazi.jpg",G TV
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.postimg.cc/ZRD3YZy6/ASports-Hd.jpg",A SPORTS HD
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+http://starshare.org/live/kumar11/kumar11/43444.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.postimg.cc/3NsvpB1R/PTVSports.jpg",PTV SPORTS
 http://starshare.org/live/kumar11/kumar11/89.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png",GEO SUPER
+http://starshare.org/live/kumar11/kumar11/101.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Sports
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Cricket 2 HD
@@ -50,11 +52,12 @@ http://starshare.org/live/kumar11/kumar11/5040.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/J09nf46D/DDBangla.jpg",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/jalshamovies.jpg",JALSHA MOVIES HD
-https://raw.githubusercontent.com/tkmani91/Channel/main/JalshaMoviesHd.m3u8
+http://starshare.org/live/kumar11/kumar11/98884.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="http://iptvidn.com/assets/images/starjalsha.jpg",STAR JALSHA HD
 https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglacinema.jpg",Zee Bangla Cinema
-http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
+https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
+#http://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglahd.jpg",ZEE BANGLA HD
 https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://i.ibb.co.com/cc7zDYXc/Colors-Bangla.jpg",Colors Bangla
