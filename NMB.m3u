@@ -449,7 +449,7 @@ http://212.102.60.231/HBO_2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="http://iptvidn.com/assets/images/9xm.jpg",9XM
-https://raw.githubusercontent.com/tkmani91/Channel/main/9Xm.m3u8
+https://mix.drmlive.net/mix/xiaomi-66080.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MUSIC" tvg-logo="https://i.postimg.cc/tg82qLnZ/9XJalwa.jpg",9XJalwa
 https://raw.githubusercontent.com/tkmani91/Channel/main/9XJalwa.m3u8
