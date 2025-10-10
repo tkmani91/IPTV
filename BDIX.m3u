@@ -50,7 +50,7 @@ https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 #http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/804.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.postimg.cc/3NsvpB1R/PTVSports.jpg",PTV SPORTS
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/498.m3u8
+http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png",GEO SUPER
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/499.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Sports
