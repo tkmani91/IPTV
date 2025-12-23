@@ -60,7 +60,7 @@ http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/2581.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/J09nf46D/DDBangla.jpg",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/jalshamovies.jpg",JALSHA MOVIES HD
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8 
+https://edge2.roarzone.info:8443/roarzone/bk/31/index.m3u8?token=80874302ac64bb041d4cfc6593647b35a05a0e25-bcb6fc0195f6f407bf9d0d447b0304c9-1766520553-1766509753
 #http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/543.m3u8
 #http://tv.bdiptv.store:80/live/restreauuX58/refstream/81.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="http://iptvidn.com/assets/images/starjalsha.jpg",STAR JALSHA HD
@@ -68,20 +68,20 @@ https://tvsen7.aynaott.com/sjhdbd/tracks-v1a1/mono.ts.m3u8
 #http://tv.bdiptv.store:80/live/restreauuX58/refstream/52.m3u8
 #https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglacinema.jpg",Zee Bangla Cinema
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1766580197~acl=%2f*~id=77eeb265-0acc-4509-bca3-70484608e974~data=hdntl~hmac=3a1db647d5e1d3491480b15984c213723faaa53c3adffb12a818f88edb29cbdc
+https://edge2.roarzone.info:8443/roarzone/bk/29/index.m3u8?token=00adc7db7657c5bc87809e9842df4811b16161e0-fb56d6da142829a330b203d0564fb28a-1766520553-1766509753
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglahd.jpg",ZEE BANGLA HD
 https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://i.ibb.co.com/cc7zDYXc/Colors-Bangla.jpg",Colors Bangla
-https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+https://edge2.roarzone.info:8443/roarzone/bk/66/index.m3u8?token=9de78766c08c9e2ef4abbf63fd2da8f10501c77c-04f45be12992a97672d1ee148debb5f8-1766520553-1766509753
 #https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/colors-bangla-cinema.jpg",Colors Bangla Cinema
 http://tv.bdiptv.store:80/live/restreauuX58/refstream/238.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://i.ibb.co.com/5XKXFdFh/Sony-Aath.jpg",SONY AATH
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
+https://edge2.roarzone.info:8443/roarzone/bk/33/index.m3u8?token=21e0d277dfc236b4c9f0d9cd50e328257d45feaa-92b6946da2c1b45b333e200292f02157-1766520553-1766509753
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="http://iptvidn.com/assets/images/enterr10.jpg",ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5e7e35a1e640364eb38c06c67dee7179.png",Aakash Aath
@@ -95,24 +95,24 @@ http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1629.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/r2XP0bH3/travelxp.jpg",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/d01D83Yz/STAR-Movies.jpg",Star Movies HD
-http://tv.bdiptv.store:80/live/restreauuX58/refstream/95.m3u8
+https://edge2.roarzone.info:8443/roarzone/bk/starmovies/index.m3u8?token=d836301e7cc283d93c4f74610c7d70e381500d8a-fea2959b9d203c30b0799fe267a7b81a-1766520553-1766509753
 #http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1169.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/DydByJhc/Zee-Cinema.jpg",Zee Cinema
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/583.m3u8
+https://edge2.roarzone.info:8443/roarzone/bk/76/index.m3u8?token=9c35561afd40673b8a4526e6c204bb2a5b9cd638-cb103c2fb13a71986c934a28b6044af4-1766520553-1766509753
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/DydByJhc/Zee-Cinema.jpg",Zee Cinema [USA]
 http://smart.bengaldigital.live/ZeeCinema/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/zee%20cinema.jpeg",Zee Cinema HD
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1766580197~acl=%2f*~id=77eeb265-0acc-4509-bca3-70484608e974~data=hdntl~hmac=3a1db647d5e1d3491480b15984c213723faaa53c3adffb12a818f88edb29cbdc
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/254D4KJ2/Zee-Action.jpg",Zee Action
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/730.m3u8
+https://edge2.roarzone.info:8443/roarzone/toffee/zee_action/index.m3u8?token=887199de333783761ba7f4668ce2e344a9208c4e-c2acf91f6920f7fe3fa4d7946e7981d0-1766520553-1766509753
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",Anmol Cinema
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/627.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/B5C3ZMxk/Star-Gold.jpg",Star Gold HD
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/605.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/HWR5fYmg/Sony-Max-HD.jpg",SONY MAX HD
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1366.m3u8
+https://edge2.roarzone.info:8443/roarzone/bk/77/index.m3u8?token=93e80d495796a7f66f87756c085f60e291da2ba3-9f93a663653bb5f75c7f04f234928c1d-1766520553-1766509753
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/HWR5fYmg/Sony-Max-HD.jpg",SONY MAX INDIA
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/747.m3u8
+https://edge2.roarzone.info:8443/roarzone/toffee/sony_max_hd/index.m3u8?token=fe2bd9ffc741e599e32470045987d2f772a4c0b9-0b6bd168fad088ebf3236c09247a81de-1766520553-1766509753
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/NFDGd2TG/Phd.jpg",& Pictures HD
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/6032.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.pn",B4U MOVIES
