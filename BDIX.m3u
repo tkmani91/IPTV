@@ -104,7 +104,7 @@ https://edge2.roarzone.info:8443/roarzone/bk/76/index.m3u8?token=9c35561afd40673
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/254D4KJ2/Zee-Action.jpg",Zee Action
 https://edge2.roarzone.info:8443/roarzone/toffee/zee_action/index.m3u8?token=887199de333783761ba7f4668ce2e344a9208c4e-c2acf91f6920f7fe3fa4d7946e7981d0-1766520553-1766509753
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Zee_Anmol_Cinema_logo.png",Anmol Cinema
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/627.m3u8
+http://66.102.120.18:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/B5C3ZMxk/Star-Gold.jpg",Star Gold HD
 https://edge2.roarzone.info:8443/roarzone/bk/72/index.m3u8?token=9b311785919f8bd7d005a23c16b9244ed28e0dd8-4e76c44f775a4bb1679133a2b1082af3-1766520553-1766509753
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/HWR5fYmg/Sony-Max-HD.jpg",SONY MAX HD
@@ -126,9 +126,9 @@ https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/hRCZLBx3/Bollywood-Classic.jpg",BollywooD Classic
 https://tvsen6.aynaott.com/GoldminesMovies/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/DfM490fV/Color-Cineplex-HD.jpg",Color Cineplex
-https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
+http://66.102.120.18:8000/play/a01a/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/DfM490fV/Color-Cineplex-HD.jpg",Color Cineplex HD
-https://vods2.aynaott.com/hindimovies/index.m3u8
+http://66.102.120.18:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/N6NpRPbH/Shemaroo-Bollywood.jpg",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="INDIAN TV" tvg-logo="https://i.postimg.cc/J7vtTFKM/ZeeTVHD.jpg",Zee Tv HD
