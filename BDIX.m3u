@@ -20,9 +20,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS" tvg-logo="https://i.ibb.co.com/JF5FgTyP/atnnews.jpg",ATN News 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS" tvg-logo="https://i.ibb.co/1JMtP4y0/news24-channel-logo-png-seeklogo-362149-removebg-preview.png",NEWS 24
-https://tvsen6.aynaott.com/news24/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/tracks-v1a1/mono.m3u8
+#https://tvsen6.aynaott.com/news24/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS" tvg-logo="http://iptvidn.com/assets/images/dbc.jpg",DBC NEWS
-https://tvsen6.aynaott.com/dbcnews/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
+#https://tvsen6.aynaott.com/dbcnews/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #https://tvsen6.aynaott.com/channeli/index.m3u8
@@ -48,13 +50,15 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #https://tvsen5.aynaott.com/tK2BNvT68fHZ/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="http://iptvidn.com/assets/images/mohonatv.jpg",MOHONA TV
-https://tvsen6.aynaott.com/mohonatv/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+#https://tvsen6.aynaott.com/mohonatv/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/PzwXwbLY/starsports1.jpg",Star Sports 1 HD
 https://tvsen5.aynaott.com/c9EpzZ6fQBJ3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="http://iptvidn.com/assets/images/tsports.jpg",T SPORTS
 https://tvsen7.aynaott.com/tsportshd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="http://iptvidn.com/assets/images/gazi.jpg",G TV
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.postimg.cc/ZRD3YZy6/ASports-Hd.jpg",A SPORTS HD
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.postimg.cc/3NsvpB1R/PTVSports.jpg",PTV SPORTS
@@ -72,17 +76,18 @@ https://edge2.roarzone.info:8443/roarzone/bk/31/index.m3u8?token=80874302ac64bb0
 #http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/543.m3u8
 #http://tv.bdiptv.store:80/live/restreauuX58/refstream/81.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="http://iptvidn.com/assets/images/starjalsha.jpg",STAR JALSHA HD
-https://tvsen7.aynaott.com/sjhdbd/tracks-v1a1/mono.ts.m3u8
-#https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglacinema.jpg",Zee Bangla Cinema
 https://edge2.roarzone.info:8443/roarzone/bk/29/index.m3u8?token=00adc7db7657c5bc87809e9842df4811b16161e0-fb56d6da142829a330b203d0564fb28a-1766520553-1766509753
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="http://iptvidn.com/assets/images/zeebanglahd.jpg",ZEE BANGLA HD
-https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://i.ibb.co.com/cc7zDYXc/Colors-Bangla.jpg",Colors Bangla
-https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8
+#https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/colors-bangla-cinema.jpg",Colors Bangla Cinema
 http://tv.bdiptv.store:80/live/restreauuX58/refstream/238.m3u8
