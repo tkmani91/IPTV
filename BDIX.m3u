@@ -33,7 +33,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #https://tvsen6.aynaott.com/channel24/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="http://iptvidn.com/assets/images/atnbangla.jpg",ATN BANGLA
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://tvassets.roarzone.net/images/2.png",ATN BANGLA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
@@ -75,17 +75,19 @@ http://premimum.online/live/jen12345/jen54321/5040.ts
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/J09nf46D/DDBangla.jpg",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="https://tvassets.roarzone.net/images/31.png",JALSHA MOVIES HD
-https://edge2.roarzone.info:8443/roarzone/bk/31/index.m3u8?token=80874302ac64bb041d4cfc6593647b35a05a0e25-bcb6fc0195f6f407bf9d0d447b0304c9-1766520553-1766509753
+http://premimum.online/live/jen12345/jen54321/425.ts
 #http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/543.m3u8
 #http://tv.bdiptv.store:80/live/restreauuX58/refstream/81.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://tvassets.roarzone.net/images/30.png",STAR JALSHA HD
 http://premimum.online/live/jen12345/jen54321/23218.ts
 #https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://tvassets.roarzone.net/images/29.png",Zee Bangla Cinema
-https://padmaonline.duckdns.org:8088/ZeeBanglaSonar/tracks-v1a1/mono.m3u8
+http://premimum.online/live/jen12345/jen54321/49615.ts
+#https://padmaonline.duckdns.org:8088/ZeeBanglaSonar/tracks-v1a1/mono.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://tvassets.roarzone.net/images/34.png",ZEE BANGLA HD
-https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
+http://premimum.online/live/jen12345/jen54321/435.ts
+#https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 #https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
@@ -96,10 +98,10 @@ https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="https://tvassets.roarzone.net/images/66.png",Colors Bangla Cinema
-http://tv.bdiptv.store:80/live/restreauuX58/refstream/238.m3u8
+http://premimum.online/live/jen12345/jen54321/271038.ts
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://i.ibb.co.com/5XKXFdFh/Sony-Aath.jpg",SONY AATH
-https://padmaonline.duckdns.org:8088/SonyAath/index.m3u8
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="http://iptvidn.com/assets/images/enterr10.jpg",ENTER 10 BANGLA
+http://premimum.online/live/jen12345/jen54321/4083.ts
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj",ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png",SUN BANGLA
 http://103.182.170.32:8888/play/a01v
