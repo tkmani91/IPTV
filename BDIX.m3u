@@ -222,3 +222,6 @@ https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/cJXWTvcW/Bangla-Songs.jpg",Bangla Songs
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES" tvg-logo="http://10.16.100.244/files/jaat.jpg",JAAT
+http://10.16.100.214/iccftps14/iccftps14sasd5/Movies/Hindi/Jaat%20(2025)%201080p%20WEBRip.mp4
