@@ -25,16 +25,17 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708-audio_113382_eng=113200-vid
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png",DBC NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #https://tvsen6.aynaott.com/dbcnews/index.m3u8
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg",Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
-#https://tvsen6.aynaott.com/channeli/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS" tvg-logo="https://s3.aynaott.com/storage/129b0d0a02566999a0c164cd7d506e55",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #https://tvsen6.aynaott.com/channel24/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="NEWS" tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://tvassets.roarzone.net/images/2.png",ATN BANGLA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+https://cdn.jsdelivr.net/gh/nurmd2006/empty@main/stream/by/your-abbu/atnbangla.m3u8
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://i.postimg.cc/tJq1jBzG/Channel-i.jpg",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#https://tvsen6.aynaott.com/channeli/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://i.ibb.co.com/1YgLr6rh/Banglavision.jpg",Banglavision
@@ -54,39 +55,39 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 #https://tvsen6.aynaott.com/mohonatv/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/PzwXwbLY/starsports1.jpg",Star Sports 1 HD
-http://premimum.online/live/jen12345/jen54321/148.ts
+http://27.124.71.27/Star_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png",T SPORTS
-http://premimum.online/live/jen12345/jen54321/18452.ts
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://tvassets.roarzone.net/images/1.png",G TV
 https://edge2.roarzone.net:8447/roarzone/edge2/gazi/tracks-v1a1/mono.m3u8?token=3dcb37e30825b0ff164ce4c0104c993df28a5d6d-46d9f27943a488c8f4fad31713cbe48b-1779096340-1779085540
 #https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.postimg.cc/ZRD3YZy6/ASports-Hd.jpg",A SPORTS HD
-http://premimum.online/live/jen12345/jen54321/43444.ts
+https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
 #https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.postimg.cc/3NsvpB1R/PTVSports.jpg",PTV SPORTS
-http://premimum.online/live/jen12345/jen54321/89.ts
+https://tvsen5.aynaott.com/Ptvsports/index.m3u8
 #http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png",GEO SUPER
 http://premimum.online/live/jen12345/jen54321/101.ts
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Sports
-http://premimum.online/live/jen12345/jen54321/215.ts
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Cricket 2 HD
-http://premimum.online/live/jen12345/jen54321/5040.ts
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/J09nf46D/DDBangla.jpg",DD BANGLA
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="https://tvassets.roarzone.net/images/31.png",JALSHA MOVIES HD
-http://premimum.online/live/jen12345/jen54321/425.ts
+https://tyr.zibobdixserver.top/hls/JalshaMoviesHD.m3u8
 #http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/543.m3u8
 #http://tv.bdiptv.store:80/live/restreauuX58/refstream/81.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://tvassets.roarzone.net/images/30.png",STAR JALSHA HD
-http://premimum.online/live/jen12345/jen54321/23218.ts
+https://tvsen3.aynaott.com/n64PH4YL/index.m3u8
 #https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://tvassets.roarzone.net/images/29.png",Zee Bangla Cinema
-http://premimum.online/live/jen12345/jen54321/49615.ts
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://tvassets.roarzone.net/images/29.png",Zee Bangla Sonar
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_480/chunks.m3u8
 #https://padmaonline.duckdns.org:8088/ZeeBanglaSonar/tracks-v1a1/mono.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://tvassets.roarzone.net/images/34.png",ZEE BANGLA HD
-http://premimum.online/live/jen12345/jen54321/435.ts
+https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 #https://padmaonline.duckdns.org:8088/ZeeBanglaHD/index.m3u8
 #https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
@@ -98,13 +99,13 @@ https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="https://tvassets.roarzone.net/images/66.png",Colors Bangla Cinema
-http://premimum.online/live/jen12345/jen54321/271038.ts
+premiumtvs.space:8080/live/6388578743/4853784376/271038.ts
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://i.ibb.co.com/5XKXFdFh/Sony-Aath.jpg",SONY AATH
-http://premimum.online/live/jen12345/jen54321/4083.ts
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&segment=.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj",ENTER 10 BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png",SUN BANGLA
-http://103.182.170.32:8888/play/a01v
+http://27.124.71.27/Sun_Bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/5e7e35a1e640364eb38c06c67dee7179.png",Aakash Aath
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
