@@ -117,6 +117,8 @@ http://103.175.73.12:8080/live/664/664_0.m3u8
 https://tvsen6.aynaott.com/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="http://iptvidn.com/assets/images/discoveryhd.jpg",DISCOVERY
 http://premiumtvs.space:8080/live/6388578743/4853784376/406.ts
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://images.seeklogo.com/logo-png/28/3/animal-planet-logo-png_seeklogo-283145.png",Animal Planet
+http://27.124.71.27/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/cJGj5ydD/HISTORY-TV.jpg",HISTORY TV HD
 http://premiumtvs.space:8080/live/6388578743/4853784376/180.ts
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/r2XP0bH3/travelxp.jpg",Travel XP
@@ -135,14 +137,13 @@ https://padmaonline.duckdns.org:8088/SonyMaxHD/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.postimg.cc/NFDGd2TG/Phd.jpg",& Pictures HD
 https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.pn",B4U MOVIES
-https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/360p/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="http://iptvidn.com/assets/images/b4umovies.jpg",South Station
 https://jmp2.uk/sam-IN3800008CX.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/0RMv6mQv/xplor-HD.jpg",& Xplor HD
 http://103.229.254.25:7001/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://s3.aynaott.com/storage/c79b782d70458866537715e5ac842123",& Pictures
-http://116.90.120.151:8000/play/a0it/index.m3u8
-#https://tvsen6.aynaott.com/andpictureshd/index.m3u8
+https://tvsen6.aynaott.com/andpictureshd/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/d0LQRQ4d/Bollywood-HD.jpg",BollywooD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="INDIAN TV" group-title="MOVIES TV" tvg-logo="https://i.ibb.co.com/hRCZLBx3/Bollywood-Classic.jpg",BollywooD Classic
