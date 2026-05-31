@@ -221,5 +221,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/cJXWTvcW/Bangla-Songs.jpg",Bangla Songs
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES" tvg-logo="http://10.16.100.244/files/jaat.jpg",JAAT
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES" tvg-logo="http://10.16.100.244/files/jaat.jpg",JAAT (2025)
 http://10.16.100.214/iccftps14/iccftps14sasd5/Movies/Hindi/Jaat%20(2025)%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES" tvg-logo="http://10.16.100.244/files/3_idiots.jpg",3 Idiots (2009)
+http://10.16.100.206/ftps3/ftps3d2/Movies/Hindi/3%20Idiots%20(2009)%201080p%20BluRay.mp4
