@@ -73,7 +73,7 @@ http://premiumtvs.space:8080/live/1Aoen7elp5/lgMJ60tmAa/101.ts
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Sports
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Cricket 2 HD
-https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
+http://27.124.71.27/Willow_Extra/index.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="https://tvassets.roarzone.net/images/31.png",JALSHA MOVIES HD
 https://tyr.zibobdixserver.top/hls/JalshaMoviesHD.m3u8
@@ -115,8 +115,9 @@ http://103.175.73.12:8080/live/664/664_0.m3u8
 
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/qM664rgN/National-Geographic.jpg",NATIONAL GEOGRAPHIC
 https://tvsen6.aynaott.com/natgeo/index.m3u8
+#http://202.70.146.135:8000/play/a05o/88457463.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="http://iptvidn.com/assets/images/discoveryhd.jpg",DISCOVERY
-http://premiumtvs.space/live/1Aoen7elp5/lgMJ60tmAa/406.ts
+http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://images.seeklogo.com/logo-png/28/3/animal-planet-logo-png_seeklogo-283145.png",Animal Planet
 http://27.124.71.27/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/cJGj5ydD/HISTORY-TV.jpg",HISTORY TV HD
