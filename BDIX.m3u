@@ -69,7 +69,7 @@ https://tvsen6.aynaott.com/asports/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/Ptvsports/index.m3u8
 #http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png",GEO SUPER
-http://premiumtvs.space:8080/live/1Aoen7elp5/lgMJ60tmAa/101.ts
+http://premiumtvs.space/live/1Aoen7elp5/lgMJ60tmAa/101.ts
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Sports
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="SPORTS" tvg-logo="https://i.ibb.co.com/LXhyrpps/willowhd.jpg",Willow Cricket 2 HD
@@ -101,7 +101,7 @@ https://padmaonline.duckdns.org:8088/ColorsBanglaHD/index.m3u8
 #https://tvsen3.aynaott.com/u3LkNQ7UHhFX/index.m3u8
 #https://tvsen6.aynaott.com/ColorsBangla/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="MOVIES TV" tvg-logo="https://tvassets.roarzone.net/images/66.png",Colors Bangla Cinema
-http://premiumtvs.space:8080/live/1Aoen7elp5/lgMJ60tmAa/271038.ts
+http://premiumtvs.space/live/1Aoen7elp5/lgMJ60tmAa/271038.ts
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://i.ibb.co.com/5XKXFdFh/Sony-Aath.jpg",SONY AATH
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&segment=.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="BENGALI TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kUVgsElgaFpQZNYILWQ0HLa-MAmbEjWNRBRqKms5qML2Q=s900-c-k-c0x00ffffff-no-rj",ENTER 10 BANGLA
@@ -116,11 +116,11 @@ http://103.175.73.12:8080/live/664/664_0.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/qM664rgN/National-Geographic.jpg",NATIONAL GEOGRAPHIC
 https://tvsen6.aynaott.com/natgeo/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="http://iptvidn.com/assets/images/discoveryhd.jpg",DISCOVERY
-http://premiumtvs.space:8080/live/1Aoen7elp5/lgMJ60tmAa/406.ts
+http://premiumtvs.space/live/1Aoen7elp5/lgMJ60tmAa/406.ts
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://images.seeklogo.com/logo-png/28/3/animal-planet-logo-png_seeklogo-283145.png",Animal Planet
 http://27.124.71.27/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/cJGj5ydD/HISTORY-TV.jpg",HISTORY TV HD
-http://premiumtvs.space:8080/live/1Aoen7elp5/lgMJ60tmAa/180.ts
+http://premiumtvs.space/live/1Aoen7elp5/lgMJ60tmAa/180.ts
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co.com/r2XP0bH3/travelxp.jpg",Travel XP
 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
