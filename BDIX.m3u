@@ -1,20 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Fifa World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup
-http://10.20.30.30:7171/Sports-1/tracks-v1a1/mono.m3u8?token=wcspecial2026hub
+http://10.20.30.40/proxy/10.20.30.40:6789/stream/wc26/fox/stream_0.m3u8?u=wc2026&p=bff521a6ff1b291c37db5d3258e2019396b0ff1fad5f6dc9ba4a019a17df73cd&uid=4287824750
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Fifa World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup
-http://10.20.30.30:7171/Sports-2/index.m3u8?token=wcspecial2026hub
+http://10.20.30.40/proxy/10.20.30.30:7171/Sports-2/tracks-v1a1/mono.m3u8?token=RMBnPpIZbFda897
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Fifa World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup
-http://10.20.30.30:7171/Sports-3/index.m3u8?token=wcspecial2026hub
+http://10.20.30.40/proxy/10.20.30.30:7171/Sports-3/tracks-v1a1/mono.m3u8?token=RMBnPpIZbFda897
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Fifa World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup
-http://10.20.30.30:7171/Sports-4/index.m3u8?token=wcspecial2026hub
+http://10.20.30.40/proxy/10.20.30.30:7171/Sports-4/tracks-v1a1/mono.m3u8?token=RMBnPpIZbFda897
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Fifa World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup
-http://10.20.30.30:7171/Sports-5/index.m3u8?token=wcspecial2026hub
+http://10.20.30.40/proxy/10.20.30.30:7171/Sports-5/tracks-v1a1/mono.m3u8?token=RMBnPpIZbFda897
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Fifa World Cup" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png",FIFA World Cup
-http://10.20.30.30:7171/Sports-6/index.m3u8?token=wcspecial2026hub
-#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Fifa World Cup" tvg-logo="https://tsportscdn.s3.ap-southeast-1.amazonaws.com/uploads/settings/logo.png",T SPORTS
-http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+http://10.20.30.40/proxy/10.20.30.30:7171/Sports-6/tracks-v1a1/mono.m3u8?token=RMBnPpIZbFda897
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope 
+#EXTHTTP:{"X-Authorization":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMzI0NTg2MTU0MzM5NjE0NzIiLCJhdWQiOlsiMSJdLCJleHAiOjE4MTM4NTQ4NjgsIm5iZiI6MTc4MjMxODg2OCwiaWF0IjoxNzgyMzE4ODY4LCJqdGkiOiIwMmY3Y2Y2M2I5OTFiMjY0Mzk0YmU2MjE0ZDJhNzI4MWYzZTExNWFkMGE4OGJhZTBmYTcyZjkwMTJmOTJmNGU1ZTA1N2Y3NGMxOGViODQzYyIsInNjb3BlcyI6WyJtYW5hZ2VfcHJvZmlsZXMiXSwicGlkIjoiMjMyNDU4Njc1MjYyMDA1MjQ4In0.kr0qIPfh66MktNCEAW_AcqFPzzX58VdP2JkVNzOjiOaig25qi9H6rttTcnKzJZoHD0Urj6YEom2S3Z_VujPXSugq9UXPFrzFbBA9zD-nMDgsNQrBr15K2uTAweqTClFduLPLyi-JvZWXpq8UbHybjhoen-Q3nRyHzOsQakQp8nRhR2yUYCiDBjwDPzF56WCVUWAYr1M19xRyiGJTqLmDI1KrT8CXwVdZFBZWqAptUnFMI6TEcoFSsRSMhN9_8KZCXbezExsToFIPbnIxp7ZPDD-qGT-KZ4GfPWrBUS93fiR4p8UzHn9Q3Bwba_mTxq3Fy8OhHilKCefoVTmyngBHwodjTOw8D9JkYc5-16QmYS6tBGbdgPRHKklTgkNYDlrQHCSQuNLTI_pRskw5oygUXkudpiPcUM9IFz8ud-rbbxVii-0ISXtwUIaEv_HBf_aA9cCGttN7ZdEquMTxbIhR27EMTwj5RdgE-i64iH__Xv3Ua4A5tzJjA5XR9Cqrsa3k84uCJlk74Z-8KBpvTcbMjAOhtqZOfimw736vSBgV9Xdk4dsoxpIfg90g38tfvCgYSwDgq5ulxTl3ygq7kS6BY1kT2m_R1T2Xdorm-75kbJ9iTn9IGa9PruwtmrtLlbuT2uivaw3E05U_UCrMwqeFZslbGtjAij95j083wmxXqUQ"}
+https://fifa-stream-01.bioscopelive.com/out/v1/60e7608404004b1186261497b404630b/index.m3u8
+
 #EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Fifa World Cup" tvg-logo="https://www.somoynews.tv/icon.png",Somoy Tv
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 
 
